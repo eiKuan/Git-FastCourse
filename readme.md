@@ -18,3 +18,5 @@ function test(){
 * Git commit -m <"Mensagem Descritiva">
 
 * Git push origin <"Nome da Branch"> ~ Origin é o servidor
+
+* Git log ~ Registro das alterações Git
