@@ -9,12 +9,12 @@ function test(){
 ```
 
 ### Comandos - Git Bash
-Git clone <"URL">
+* Git clone <"URL">
 
-Git status ~ Modificações e Stage Area
+* Git status ~ Modificações e Stage Area
 
-Git add <"Arquivo Modificado"> ~ Manda para a Stage Area
+* Git add <"Arquivo Modificado"> ~ Manda para a Stage Area
 
-Git commit -m <"Mensagem Descritiva">
+* Git commit -m <"Mensagem Descritiva">
 
-Git push origin <"Nome da Branch">
+* Git push origin <"Nome da Branch"> ~ Origin é o servidor
