@@ -16,3 +16,5 @@ Git status ~ Modificações e Stage Area
 Git add <"Arquivo Modificado"> ~ Manda para a Stage Area
 
 Git commit -m <"Mensagem Descritiva">
+
+Git push origin <"Nome da Branch">
