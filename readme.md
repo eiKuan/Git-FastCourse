@@ -1,5 +1,5 @@
 
-# MiniCurso Git
+# Git ShortCourse
 
 ## SETEC 06/10/2025
 Repositório do MiniCurso de Git realizado na SETEC
